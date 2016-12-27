@@ -1,0 +1,6 @@
+{
+  "name": "Calculator service",
+  "description": "Calculator service deployed on heroku",
+  "image": "heroku/scala",
+  "addons": [ "heroku-postgresql" ]
+}
